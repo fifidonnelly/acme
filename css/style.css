@@ -58,3 +58,13 @@ footer {
   text-align: center;
 }
 
+/*Modify so the columns stack on top of each other on smaller screens*/
+@media  and {max-width: 600px;{
+  .column{
+width: 100%;
+height: auto;
+}
+}
+  
+}
+
