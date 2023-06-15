@@ -59,6 +59,7 @@ footer {
 }
 
 /*Modify so the columns stack on top of each other on smaller screens*/
+/*I used chatGPT to help me with the code "@media screen and"*/
 @media screen and(max-width: 600px){
   .column {
 width: 100%;
